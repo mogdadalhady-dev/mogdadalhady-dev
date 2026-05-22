@@ -22,11 +22,21 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=mogdadalhady-dev&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 
-</div>
+</div>                            
+---
 
+# 👨‍💻 About Me
 
+```python
+class MogdadalhadyDev:
 
-    def say_hi(self):
+    def __init__(self):
+        self.role = "Data Analyst"
+        self.languages = ["Python", "HTML", "CSS", "MySQL"]
+        self.speciality = "Data Analysis & VibeCoding"
+        self.learning = ["Advanced Data Analysis", "Dashboards", "Automation"]
+        self.goal = "Building professional projects and solving real problems"
+
         print("Thanks for visiting my profile 🚀")
 
 me = MogdadalhadyDev()
